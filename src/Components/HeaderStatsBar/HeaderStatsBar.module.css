@@ -1,0 +1,19 @@
+.wrp {
+  display: flex;
+  align-items: center;
+
+  padding: 5px;
+}
+
+.statsbar {
+  display: flex;
+  justify-content: space-between;
+}
+.stat {
+  margin-right: 10px;
+}
+
+.nigth {
+  background: #242323;
+  color: white;
+}

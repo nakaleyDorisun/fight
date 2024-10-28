@@ -1,0 +1,11 @@
+.wrp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.nigth {
+  background: #242323;
+  color: white;
+}

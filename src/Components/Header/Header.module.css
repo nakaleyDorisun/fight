@@ -1,0 +1,16 @@
+.wrp {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-content: space-around;
+
+  justify-items: center;
+
+  height: 50px;
+  padding: 5px;
+  background: #aeaeae;
+}
+
+.nigth {
+  background: #343333;
+  color: white;
+}

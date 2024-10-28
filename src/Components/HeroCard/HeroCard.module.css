@@ -1,0 +1,35 @@
+.card {
+  width: 300px;
+  height: 250px;
+  border: 1px black solid;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  transition: 0.3s;
+  opacity: 1;
+  transform: scale3d(0.95, 0.95, 1);
+  padding: 10px;
+}
+
+.wrp {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+  background: #c3c3c3;
+  padding: 10px;
+}
+
+.card:hover {
+  opacity: 1;
+  transform: none;
+}
+
+.nigth {
+  background: #282828;
+  color: white;
+}
+.nigthBorder {
+  border: white 1px solid;
+}
